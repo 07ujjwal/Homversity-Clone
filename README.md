@@ -23,7 +23,7 @@ http://localhost:3000
 ## Features
 
 - [x] Register/Login Screens
-- [x] ![Register Component](file:///C:/Users/Ujjwal/Pictures/Screenshots/Screenshot%20(237).png)
+- [x] ![Register Component](https://imgur.com/undefined)
 - [x] Student Details
 - [x] Add Student
 - [x] Edit/Delete Student Details
