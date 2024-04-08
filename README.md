@@ -23,7 +23,7 @@ http://localhost:3000
 ```
 ## API Structure
 
-![api](![image](blob:https://imgur.com/e485e210-58f2-467b-94bd-41b18c560970)
+![api](![image](https://i.imgur.com/9Gdei3H.png)
 
 
 ## Features
@@ -33,39 +33,56 @@ http://localhost:3000
 - [ ] Engage users with our fully animated login and signup page, boasting captivating 
     transitions and intuitive design elements, ensuring an elevated user experience from start 
     to finish.
- - [ ]  ![Register Component mobile view-1](https://i.imgur.com/XYLD41e.png)
- - [ ]   ![Register Component mobile view-2](https://i.imgur.com/CvpE9G5.png)
+ - [ ] ![Register Component mobile view-2](https://i.imgur.com/CvpE9G5.png)
+ - [ ] 
 - [x] Property Details
-- [ ]  ![property details](https://i.imgur.com/8dj84Fw.png)
-- [ ] ![property details](blob:https://imgur.com/4f1dc74f-e4d5-4144-bd27-d96702236cc7)
-- [ ] ![property details](blob:https://imgur.com/68aa5eb8-b9c0-4a1d-809f-d9d8bd5a82fa)
+- [ ] ![property details](https://i.imgur.com/8dj84Fw.png)
+- [ ] 
+- [ ] ![property details](https://i.imgur.com/bvsAoc7.png)
+- [ ] 
+- [ ] ![property details](https://i.imgur.com/Yx0KmJo.png)
 - [x] Add Property
 - [x] Edit/Delete Property Details
-- [ ] ![property edit-1](https://i.imgur.com/bvsAoc7.png)
-- [ ] ![property edit-2](blob:https://imgur.com/87668987-97d0-49ec-baaf-ad84691efcb2)
-- [ ] ![property edit-3](blob:https://imgur.com/1c550ca0-f7d2-49a1-bbba-4948d5378aaf)
+- [ ] ![property edit-1](https://i.imgur.com/bvsAoc7.png
+
+- [ ] Editing property section
+- [ ] ![property edit-2](https://i.imgur.com/VHblkdE.png)
+- [ ] 
+- [ ] ![property edit-3](https://i.imgur.com/3W5pc16.png)
+- [ ] 
 - [x] Update Property Types and all from a small admin dashboard
 - [ ] ![property admin](https://i.imgur.com/opzfj1y.png)
+- [ ] 
 - [x] Can add Property Facilities
-- [ ] ![property facility-1](blob:https://imgur.com/c4efbd8e-5443-4573-bf5f-84a2b4f8c6f2)
+- [ ] ![property facility-1](https://i.imgur.com/qbIXlKw.png)
+- [ ] 
 - [ ] ![property facility-2](https://i.imgur.com/o73mtfz.png)
+- [ ] 
 - [x] Add and display Room Details
-- [ ] ![property room](blob:https://imgur.com/790412bc-19dd-4c50-8da5-6ed506a18855)
+- [ ] ![property room](https://i.imgur.com/9MWW3xG.png)
+- [ ] 
 - [x] Booking Hostel Pg or Flat
 - [ ] ![property booking-1](https://i.imgur.com/89dHACq.png)
+- [ ] 
 - [ ] ![property booking-1](https://i.imgur.com/mPESu6A.png)
+- [ ] 
 - [ ] ![property booking-1](https://i.imgur.com/PAnN2Sk.png)
+- [ ] 
 - [x] Searching Property
-- [ ]  ![property booking-1](blob:https://imgur.com/0a014314-e286-4e69-925f-4991680c5c5b)
+- [ ]  ![property booking-1](https://i.imgur.com/oXfSrcs.png)
+- [ ]  
 - [x] Control User List
 - [x] Edit User Admin Status
 - [x] Landing Section..
 - [ ] ![landing-1](https://i.imgur.com/2mTfH8W.png)
+- [ ] 
 - [ ] ![landing-2](https://i.imgur.com/q6PWq4A.png)
-- [ ] ![landing-3](![image](https://github.com/07ujjwal/Homversity-Clone/assets/120500001/7a63b29e-26b9-47f7-868b-bb2c46edc6dd)
-)
+- [ ] 
+- [ ] ![landing-3](![image](https://i.imgur.com/UQe9gG9.png)
+- [ ] 
+- [ ] ![landing-4](https://i.imgur.com/BPfdhE0.png)
 
-![landing-4](https://i.imgur.com/BPfdhE0.png)
+
 
 ## Contributing
 
