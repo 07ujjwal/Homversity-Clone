@@ -23,7 +23,7 @@ http://localhost:3000
 ```
 ## API Structure
 
-![api](![image](https://i.imgur.com/9Gdei3H.png)
+![api](https://i.imgur.com/9Gdei3H.png)
 
 
 ## Features
