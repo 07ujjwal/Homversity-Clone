@@ -23,7 +23,7 @@ http://localhost:3000
 ## Features
 
 - [x] Register/Login Screens
-- [x] ![Register Component](https://imgur.com/undefined)
+- [x] ![Register Component](https://imgur.com/a/C7P9tLE)
 - [x] Student Details
 - [x] Add Student
 - [x] Edit/Delete Student Details
