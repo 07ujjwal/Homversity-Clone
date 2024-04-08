@@ -23,7 +23,7 @@ http://localhost:3000
 ```
 ## API Structure
 
-![landing-3](![image](blob:https://imgur.com/e485e210-58f2-467b-94bd-41b18c560970)
+![api](![image](blob:https://imgur.com/e485e210-58f2-467b-94bd-41b18c560970)
 
 
 ## Features
@@ -33,8 +33,8 @@ http://localhost:3000
 - [ ] Engage users with our fully animated login and signup page, boasting captivating 
     transitions and intuitive design elements, ensuring an elevated user experience from start 
     to finish.
- -[] ![Register Component mobile view-1](https://i.imgur.com/XYLD41e.png)
-     ![Register Component mobile view-2](https://i.imgur.com/CvpE9G5.png)
+ - [ ]  ![Register Component mobile view-1](https://i.imgur.com/XYLD41e.png)
+ - [ ]   ![Register Component mobile view-2](https://i.imgur.com/CvpE9G5.png)
 - [x] Property Details
 - [ ]  ![property details](https://i.imgur.com/8dj84Fw.png)
 - [ ] ![property details](blob:https://imgur.com/4f1dc74f-e4d5-4144-bd27-d96702236cc7)
